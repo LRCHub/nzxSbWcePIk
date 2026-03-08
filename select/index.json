@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "GROWL",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-03-08T08:39:40.269074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Growl - Bonus Track",
+      "artist": "J.J. Abrams, Conway",
+      "has_synced": false,
+      "path": "select/01_The_Growl_-_Bonus_Track_J.J._Abrams,_Conway.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "으르렁 Growl - Live",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/02_으르렁_Growl_-_Live_EXO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "으르렁 (Growl)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/03_으르렁_(Growl)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dustin Hoffman's Wife Makes a Sarcastic Remark, Cuts the Head off a Duck, Places It Where the Tub Was and Begins to Growl",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/04_Dustin_Hoffman's_Wife_Makes_a_Sarcastic_Remark,_Cuts_the_Head_off_a_Duck,_Places_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Growl",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/05_Growl_EXO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Growl [www.MusicBaran.Net]",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/06_Growl_[www.MusicBaran.Net]_EXO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Growl",
+      "artist": "EXO-K",
+      "has_synced": true,
+      "path": "select/07_Growl_EXO-K.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Growl - EXO-K Version",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/08_Growl_-_EXO-K_Version_EXO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Growl (EXO-K Version)",
+      "artist": "EXO-K",
+      "has_synced": true,
+      "path": "select/09_Growl_(EXO-K_Version)_EXO-K.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "으르렁 Growl",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/10_으르렁_Growl_EXO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "으르렁 Growl",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/11_으르렁_Growl_EXO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "으르렁 Growl",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/12_으르렁_Growl_EXO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Daily Growl",
+      "artist": "Lambchop",
+      "has_synced": true,
+      "path": "select/13_The_Daily_Growl_Lambchop.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Growl - EXO-M Version",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/14_Growl_-_EXO-M_Version_EXO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "咆哮 Growl (EXO-M Version)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/15_咆哮_Growl_(EXO-M_Version)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "으르렁 Growl - (Stage Version) [Studio Version]",
+      "artist": "EXO",
+      "has_synced": false,
+      "path": "select/16_으르렁_Growl_-_(Stage_Version)_[Studio_Version]_EXO.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "으르렁 (Growl) (Stage Ver.) (Studio Ver.)",
+      "artist": "EXO",
+      "has_synced": false,
+      "path": "select/17_으르렁_(Growl)_(Stage_Ver.)_(Studio_Ver.)_EXO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GROWL",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_GROWL_KMNZ.txt"
+    }
+  ]
+}
