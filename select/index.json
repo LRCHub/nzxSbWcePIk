@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "GROWL",
   "base_artist": "KMNZ",
-  "createdAt": "2026-03-08T08:39:40.269074Z",
+  "createdAt": "2026-04-01T14:30:27.921317Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "KMNZ",
       "has_synced": false,
       "path": "select/pl_01_GROWL_KMNZ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "GROWL",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/localdb_01_GROWL_KMNZ.txt",
+      "repo_name": "nzxSbWcePIk"
     }
   ]
 }
